@@ -5,8 +5,8 @@
 !.gitignore
 !fingerprint.bat
 !LICENSE
-!README.md
 !MD5SUM.txt
+!README.md
 !SHA1SUM.txt
 !transfer.bat
 !workspace.code-workspace
