@@ -1,0 +1,6 @@
+df23980d853d93fe97c84880e2035195ae07da84 * ./.gitignore
+1eba7caf09a39110ad2f542e3ed8700d1a69c6d3 * ./LICENSE
+069ef946ec6770847cd002fedcf459e20e084bb8 * ./README.md
+eeeeb99cbc1c71bf519826fa656ecf893472942c * ./fingerprint.bat
+c4b4de8920e324ebbb98cdac856682a6aff04fbe * ./transfer.bat
+215b950d6b4cc46cfc139f4adebdc43e3ae43e3f * ./workspace.code-workspace
