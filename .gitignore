@@ -1,0 +1,12 @@
+# Default is to not track ...
+*
+
+# But, these are the files which actually get tracked.
+!.gitignore
+!fingerprint.bat
+!README.md
+!MD5SUM.txt
+!SHA1SUM.txt
+!transfer.bat
+!workspace.code-workspace
+
