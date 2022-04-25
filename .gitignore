@@ -2,12 +2,13 @@
 *
 
 # But, these are the files which actually get tracked.
-!.gitignore
-!fingerprint.bat
-!LICENSE
-!MD5SUM.txt
-!README.md
-!SHA1SUM.txt
-!transfer.bat
-!workspace.code-workspace
+!/.gitignore
+!/fingerprint.bat
+!/LICENSE
+!/MD5SUM.txt
+!/README.md
+!/SHA1SUM.txt
+!/SHA256SUM.txt
+!/transfer.bat
+!/workspace.code-workspace
 
