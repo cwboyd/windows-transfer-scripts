@@ -4,6 +4,7 @@
 # But, these are the files which actually get tracked.
 !/.gitignore
 !/fingerprint.bat
+!/fingerprint.sh
 !/LICENSE
 !/MD5SUM.txt
 !/README.md
