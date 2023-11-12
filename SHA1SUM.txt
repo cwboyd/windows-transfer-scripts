@@ -1,6 +1,7 @@
-9982dfb885222527362566ec5bb43cc5d957f297 * ./.gitignore
-1eba7caf09a39110ad2f542e3ed8700d1a69c6d3 * ./LICENSE
-2d61b0be93ca72ef4629f15475b40143d7282461 * ./README.md
-7fcceedc73c6565c94d6e9953d7e214302d91ac6 * ./fingerprint.bat
-3cdb61bb53c61b83c7569d0bc57e934147502c16 * ./transfer.bat
-215b950d6b4cc46cfc139f4adebdc43e3ae43e3f * ./workspace.code-workspace
+31a3d460bb3c7d98845187c716a30db81c44b615  ./LICENSE
+35d85baa5bb14d07aaf175563b198f49e85aaa8d  ./fingerprint.bat
+594f18443542cccd3b04a52d628728a19cfd27af  ./fingerprint.sh
+6874fba33a5edd16a2f27bb0162e3e44553f6c08  ./workspace.code-workspace
+7a89fc2c8d04383eab77ce84dfb704dbac907039  ./transfer.bat
+d5b469d002e1a6d92fa600c90d95c5077286a541  ./.gitignore
+e4c53e88978e41df29ef88eb332fcff9561594e2  ./README.md
